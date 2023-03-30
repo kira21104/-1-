@@ -1,0 +1,9 @@
+flask
+pickle-mixin
+scikit-learn
+numpy
+pandas
+gunicorn
+joblib
+tensorflow
+pyngrok
